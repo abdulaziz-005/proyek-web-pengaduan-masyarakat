@@ -1,0 +1,12 @@
+{
+  "name": "pengaduan-masyarakat",
+  "version": "1.0.0",
+  "description": "Website pengaduan masyarakat",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
